@@ -1,14 +1,14 @@
 # README
 
 
-####PREREQUISITE
+#### PREREQUISITE
 
 * Ruby
 * Docker
 * RubyGems 
 
 
-####INSTRUCTIONS
+#### INSTRUCTIONS
 
 Once you've done cloning this project, you need to run the;
 
