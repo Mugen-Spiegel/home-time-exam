@@ -3,8 +3,7 @@ Rails.application.routes.draw do
 
   namespace :v1 do
     scope '/service', controller: :service do
-      post :airbnb
-      post :agoda
+      post :reservation
     end
   end
 
