@@ -21,6 +21,8 @@ Once you've done cloning this project, you need to run the;
 
 the details of routes and its payload
 
+it has two API call in this collection but same endpoint but different payload
+
 https://www.getpostman.com/collections/ba450bb72376499b1c43
 
 
